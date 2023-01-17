@@ -9,7 +9,5 @@ namespace SendImageService.Models
     public class Item
     {
         public string ImagePath { get; set; }
-        public string Title { get; set; }
-
     }
 }
